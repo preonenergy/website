@@ -1,0 +1,304 @@
+body{
+    font-family: 'Asap', sans-serif;
+    line-height: 1.4;
+    -webkit-font-smoothing:antialiased;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    padding: 10px 30px;
+    margin-bottom: 50px;
+}
+
+header p {
+    display:inline-block;
+    vertical-align: middle;
+    font-size: 32px;
+    color:#74c044 ;
+    font-weight: 500;
+    opacity: 0.7;
+    
+}
+header img {
+    width: 40px;
+    display:inline-block;
+    vertical-align: middle;
+}
+header div{
+    display:inline-block;
+    vertical-align: middle;
+    
+}
+
+a{
+    font-size: 18px;
+    color: #269bda ;
+    font-weight: 500;
+    text-decoration: none;
+    padding: 5px 20px;
+    border: 1px solid  transparent;
+    border-radius: 4px;
+    transition: 0.5s ease;
+}
+a:hover{
+    background-color:#0073b1;
+    color: white;
+    
+}
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+.top-left{
+    float: left;
+}
+.top-right{
+    float: right;
+}
+h2{
+    font-size: 40px;
+    color: #269bda ;
+    opacity: 0.7;
+    width: 16%;
+    display:inline-block;
+}
+.content{
+    padding-top: 50px;
+    width: 80%;
+    display:inline-block;
+    vertical-align: top;
+}
+p{
+    padding-right: 50px;
+}
+h1{
+    font-size: 25px;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    
+}
+.second-title{
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+    margin: 20px 0px;
+}
+.address{
+    width: 50%;
+    display:inline-block;
+    vertical-align: top;
+}
+h3{
+    margin-bottom: 20px;
+}
+.add{
+    margin-bottom: 30px;
+    width: 50%;
+}
+.p1{
+    margin-bottom: 10px;
+    display:inline-block;
+    vertical-align: middle;
+    width: 42%;
+}
+.p1 img{
+    width: 75px;
+    display:inline-block;
+    vertical-align: middle;
+}
+body{
+    margin: 30px 30px;
+}
+.bar{
+    margin-top: 50px;
+}
+h5{
+    font-style: italic;
+}
+footer{
+    margin-top: 50px;
+    text-align: center;
+    bottom: 0px;
+    color: grey;
+}
+.big-tite{
+    padding-right: 30px;
+}
+.content-2{
+    padding-top: 30px;
+    max-width: 200px;
+}
+.btn{
+    width: 250px;
+    border: 1px solid;
+    border-radius: 0px;
+    color:white ;
+    background-color: #269bda ;
+    text-transform: uppercase;
+}
+.btn:hover{
+    background-color:white;
+    color: #41a9e0;
+}
+.know-more{
+    margin-top: 70px;
+}
+.kmp{
+    padding: 10px 0px;
+}
+.kmh{
+    padding: 10px 0px;
+}
+.cwwp{
+    margin-top: 50px;
+}
+.our-service{
+    padding-top: 30px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.c2{
+    margin-top: 70px;
+}
+.residential{
+    margin-top: 100px;
+}
+h9{
+    font-size: 1.25rem;
+    font-weight: 600;
+}
+.card-row{
+    display: flex;
+    margin-top: 50px;
+    justify-content: space-evenly;
+}
+.adv{
+    border: 1px solid grey;
+    border-radius: 3px;
+    border-bottom-right-radius: 0;
+    padding: 15px;
+    position: relative;
+    box-shadow: -3px 3px 2px 2px rgba(0, 0, 0, 0.05);
+    height: 100%;
+}
+.ital{
+    font-size: 1.5rem;
+    font-weight: 200;
+    font-style: italic;
+}
+.name{
+    color: #41a9e0;
+}
+.abou{
+    padding-top: 5px;
+    text-align: right;
+}
+.wocs{
+    margin-top: 70px;
+}
+.advi{
+    height: 250px;
+    width: auto;
+    padding: 20px 0px;
+}
+.ceci{
+    height: 250px;
+    width: auto;
+    padding: 20px 0px;
+}
+.rimages{
+    display: flex;
+    justify-content: space-evenly;
+}
+.rclink{
+    padding: 30px 0px;
+}
+h6{
+    font-size: 4rem;
+    color: #41a9e0;
+    opacity: 0.5;
+}
+.ac{
+    font-size: 2rem;
+    color: black;
+}
+.count{
+    display: flex;
+    justify-content: center;
+    padding: 35px 0px;
+}
+.btnos{
+    border: 1px solid;
+    color:white ;
+    background-color: #269bda ;
+    text-transform: uppercase;
+    border-radius: 5px;
+    text-align: center;
+}
+.btnos:hover{
+    color: #269bda;
+    background-color: white;
+}
+.commercial{
+    margin-top: 100px;
+}
+.ru{
+    margin: 100px 0px 50px 35%;
+}
+.regform{
+    border: 1px solid black;
+    color: black;
+    max-width: 600px;
+    padding: 15px 15px;
+    position: relative;
+    height: 400px;
+}
+#submit{
+    padding: 10px 10px;
+    border: 1px solid gray;
+    color: white;
+    background:#269bda;
+    text-transform: uppercase;
+
+}
+.ar{
+    display: flex;
+    padding-top: 60px;
+}
+.fname{
+    padding-bottom: 10px;
+}
+.lname{
+    padding-bottom: 10px;
+}
+.email{
+    padding-bottom: 10px;
+}
+.phone{
+    padding-bottom: 10px;
+}
+.product{
+    padding-bottom: 10px;
+}
+.lk{
+    padding-bottom: 10px;
+}
+.submit{
+    position: absolute;
+    left: 39%;
+}
+.hetm{
+    padding: 5px 0px;
+}
+.rh{
+    left: 25%;
+}
+.content-body{
+    max-width: 700px;
+}
