@@ -90,7 +90,7 @@ h1{
     margin: 20px 0px;
 }
 .address{
-    width: 50%;
+    width: 100%;
     display:inline-block;
     vertical-align: top;
 }
@@ -99,7 +99,6 @@ h3{
 }
 .add{
     margin-bottom: 30px;
-    width: 50%;
 }
 .p1{
     margin-bottom: 10px;
@@ -197,7 +196,6 @@ h9{
 }
 .abou{
     padding-top: 5px;
-    text-align: right;
 }
 .wocs{
     margin-top: 70px;
@@ -301,4 +299,16 @@ h6{
 }
 .content-body{
     max-width: 700px;
+}
+.designation{
+    font-weight: 600;
+    font-size: 17px;
+    color: rgba(0, 0, 0, 0.7);
+}
+.member-wrap{
+    display: flex;
+    flex-wrap: wrap;
+}
+.members{
+    width: 40%;
 }
